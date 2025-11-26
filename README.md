@@ -1,2 +1,1 @@
-# Pigeon-Runner
-Project3: A runner game base on real-world scenes
+Please download Segment Anything Model2 & Unity
